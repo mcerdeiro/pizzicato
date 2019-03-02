@@ -490,7 +490,7 @@ sound.on('end', function() {
 
 <a name="sounds-connect" />
 
-###Connecting sounds to AudioNodes
+### Connecting sounds to AudioNodes
 It is possible to connect AudioNodes to sound objects by using the ```connect``` method. More details in the [advanced section of this file](#using-graph-sound).
 
 <a name="groups" />
